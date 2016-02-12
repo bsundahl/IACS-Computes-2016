@@ -5,15 +5,22 @@
 
 ## Teaching Assistants:
 Bryan Sundahl
+
 Joel Anderson
+
 Panu Sam-Ang
+
 Connor Behan
+
 Rena Elkin
 
 ## Guest Lecturers:
 Dr. Ping Liu - School of Marine and Atmospheric Sciences
+
 Dr. Margaret Schedel - Department of Music
+
 Dr. Jason Jones - Department of Sociology
+
 Dr. Alberto Perez - Lauffer Center for Computational Biology
 
 
