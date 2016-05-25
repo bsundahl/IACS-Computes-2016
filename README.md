@@ -12,8 +12,6 @@ Panu Sam-Ang
 
 Connor Behan
 
-Rena Elkin
-
 ## Guest Lecturers:
 Dr. Ping Liu - School of Marine and Atmospheric Sciences
 

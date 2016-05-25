@@ -73,7 +73,7 @@ print ' Enter the coefficients of your polynomial (up to degree 10) seperated by
 coeff = raw_input().split()
 left_bc = -2000
 right_bc = 2000
-size = 250
+size = 500
 
 #Cast the entries as floating point numbers
 coeff = [float(i) for i in coeff]
