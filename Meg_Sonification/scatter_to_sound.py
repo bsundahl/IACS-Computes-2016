@@ -69,8 +69,7 @@ freq_factors = numpy.array(freq_factors)
 min_intensity = -0.00001
 max_intensity = +0.00001
 for seg in range(duration_segments):
-    
-    data_index = int( seg/stream_scaling_factor )
+    data_index = int( seg/stream_scaling_factor ) #what row are we currently looking at
     percentage = seg*100.0/(duration_segments)
     #if seg%100==0:
         #print( "Segment %d of %d (%.1f %%)..." % (seg, duration_segments, percentage) )
@@ -80,7 +79,7 @@ for seg in range(duration_segments):
     #data_line = data[data_index,::-1]
     #data_line = numpy.sqrt( data[data_index] )
     
-    intensities = numpy.sin( seg*freq_factors*( data_line ) ) #I understand this line except for the multiplication by seg --Joel
+    intensities = numpy.sin(seg*freq_factors*( data_line ) ) #I understand this line except for the multiplication by seg --Joel
     intensity = numpy.sum( intensities )
     
     min_intensity = min(min_intensity,intensity)
