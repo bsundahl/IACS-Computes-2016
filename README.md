@@ -13,8 +13,6 @@ Panu Sam-Ang
 Connor Behan
 
 ## Guest Lecturers:
-Dr. Ping Liu - School of Marine and Atmospheric Sciences
-
 Dr. Margaret Schedel - Department of Music
 
 Dr. Jason Jones - Department of Sociology
