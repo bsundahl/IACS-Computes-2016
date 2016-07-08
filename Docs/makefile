@@ -3,4 +3,4 @@ all:
 	pdflatex schedule.tex
 	pdflatex schedule.tex
 clean:
-	rm *.aux *.log *.pdf
+	rm schedule.aux schedule.log schedule.pdf
